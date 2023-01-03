@@ -5,7 +5,7 @@ function Todos() {
   return (
     <div className="bg-black">
       {/*  @ts-ignore*/}
-      <TodosList />
+      <h1>This is where the todos will be listed...</h1>
     </div>
   );
 }
